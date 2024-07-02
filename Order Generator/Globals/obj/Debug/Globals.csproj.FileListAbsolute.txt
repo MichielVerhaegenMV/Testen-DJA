@@ -1,0 +1,6 @@
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\bin\Debug\Globals.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\bin\Debug\Globals.pdb
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\obj\Debug\Globals.csproj.AssemblyReference.cache
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\obj\Debug\Globals.csproj.CoreCompileInputs.cache
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\obj\Debug\Globals.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Globals\obj\Debug\Globals.pdb

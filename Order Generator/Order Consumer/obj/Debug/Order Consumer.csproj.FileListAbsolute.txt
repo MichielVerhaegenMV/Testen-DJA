@@ -1,0 +1,81 @@
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Order Consumer.exe.config
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Order Consumer.exe
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Order Consumer.pdb
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.csproj.AssemblyReference.cache
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.csproj.CoreCompileInputs.cache
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.exe
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.pdb
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Azure.Core.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Azure.Identity.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Buffers.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.ClientModel.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Memory.Data.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Memory.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Permissions.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Text.Json.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.ValueTuple.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Azure.Core.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Azure.Identity.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Buffers.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.ClientModel.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Memory.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Memory.Data.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Permissions.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Text.Json.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\System.ValueTuple.xml
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\obj\Debug\Order Consumer.csproj.CopyComplete
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Globals.dll
+C:\Users\comma\source\repos\TESTEN DE JAEGER\Order Generator\Order Consumer\bin\Debug\Globals.pdb
